@@ -1,0 +1,14 @@
+{
+  "name": "commaforge-llm-wiki-runtime",
+  "private": true,
+  "description": "Pinned runtime for the CommaForge Karpathy-style wiki MCP.",
+  "dependencies": {
+    "@modelcontextprotocol/node": "2.0.0-alpha.2",
+    "@modelcontextprotocol/server": "2.0.0-alpha.2",
+    "llm-wiki-mcp": "0.2.0"
+  },
+  "overrides": {
+    "@modelcontextprotocol/node": "2.0.0-alpha.2",
+    "@modelcontextprotocol/server": "2.0.0-alpha.2"
+  }
+}
