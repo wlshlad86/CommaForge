@@ -17,6 +17,14 @@
 | GH-001 | Connected GitHub account `wlshlad85` and organisation `wenalltroad` | Code host | FACT | No repository named CommaForge found at research time |
 | GH-002 | GitHub code search across likely repositories | Code search | UNKNOWN | Repeated API 408 timeouts prevented a complete content-level conclusion |
 | DRIVE-001 | Connected Google Drive searches for CommaForge, Commas/FanBasis, Grok CommaForge | File search | FACT | No matching Drive files returned |
+| WEB-005 | https://commas.com/products-sitemap.xml + solutions-sitemap.xml | Primary web | FACT | Six product URLs + nine solution URLs; lastmod 2026-07-13; affiliate-center in sitemap |
+| WEB-006 | https://commas.com/products/{payments,vibe-funnels,webinars,studios,affiliate-systems,qualifier} | Primary web | FACT | Full marketing claims for each surface; dogfood + extract 2026-07-22 |
+| WEB-007 | https://commas.com/products/ and /pricing and /products/affiliate-center | Primary web | FACT | HTTP 404 at 2026-07-22 |
+| WEB-008 | https://commas.com/solutions/enterprises | Primary web | FACT | Enterprise + API/MCP/Qualifier narrative |
+| WEB-009 | PR/Yahoo open-platform + Series A FanBasis/Commas copy | Secondary PR | FACT/HYPE mix | Rebrand ~2026-07-14; $20M Left Lane; open access claim |
+| WEB-010 | https://www.trustpilot.com/review/www.fanbasis.com | Secondary reviews | FACT | ~2.9/5 bipolar seller/buyer pattern |
+| UI-001 | Authenticated commas.com session (Richard Woodman / CommaForge) | Live UI | FACT | Onboarding modal, support chat bookmarks, referral UI, Open dashboard CTAs |
+| SESS-001 | Hermes session research + WebBridge `commas-products-dogfood` 2026-07-22 | Agent research | FACT | Commercial ontology + wedge + money paths authored |
 
 ## Provenance rule
 
