@@ -24,8 +24,7 @@ The transition is not a clean domain replacement. It is a layered evolution in w
 
 ## Sources
 
-- https://commas.com/
-- https://commas.com/terms
-- https://support.fanbasis.com/
-- https://www.fanbasis.com/
-
+- <https://commas.com/>
+- <https://commas.com/terms>
+- <https://support.fanbasis.com/>
+- <https://www.fanbasis.com/>

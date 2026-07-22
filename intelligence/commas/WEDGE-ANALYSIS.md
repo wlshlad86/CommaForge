@@ -15,6 +15,7 @@ They market “become a business.” They sell “collect more of the money your
 **Payment conversion for high-ticket digital / knowledge offers.**
 
 Evidence (FACT — public product pages 2026-07-22):
+
 - Smart routing + auto-retry (claims 12–15% failed payments back)
 - Large BNPL suite ($30–$465k financing claims)
 - One-click upsells without second card entry
@@ -33,7 +34,7 @@ Evidence (FACT — public product pages 2026-07-22):
 ## Historical ICP → open ICP
 
 | Era | Mode | INFERENCE |
-|---|---|---|
+| --- | --- | --- |
 | Fan shoutouts | Early | Fan monetisation origin |
 | Invite-only FanBasis | Scale high-ticket | Underwriting + whale density |
 | Commas open (2026-07) | Mass + brand | GMV top-of-funnel after $20M / rebrand |
@@ -53,9 +54,9 @@ Trustpilot FanBasis ~2.9, bipolar: conversion/staff praise vs charge/refund/supp
 
 ## Sources
 
-- https://commas.com/ and /products/* (WebBridge + extract 2026-07-22)  
+- <https://commas.com/> and /products/* (WebBridge + extract 2026-07-22)  
 - products-sitemap.xml / solutions-sitemap.xml lastmod 2026-07-13  
 - Yahoo/PR Series A and open-platform launch copy  
-- Trustpilot www.fanbasis.com  
+- Trustpilot <www.fanbasis.com>  
 - Left Lane / Yash launch posts  
 - Prior: intelligence/commas/PRODUCT-SURFACE.md (2026-07-18)

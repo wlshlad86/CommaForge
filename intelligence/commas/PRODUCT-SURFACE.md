@@ -14,18 +14,18 @@ Rebrand/open-platform public wave: ~2026-07-14 (PR / founder posts).
 ## Official product URLs (sitemap lastmod 2026-07-13)
 
 | URL | HTTP | Role |
-|---|---|---|
-| https://commas.com/products/payments | 200 | Core payments |
-| https://commas.com/products/vibe-funnels | 200 | AI funnels |
-| https://commas.com/products/webinars | 200 | Webinars + in-room checkout |
-| https://commas.com/products/studios | 200 | Courses + community |
-| https://commas.com/products/affiliate-systems | 200 | Affiliate center copy |
-| https://commas.com/products/affiliate-center | 404 | Sitemap lists it; live 404 at dogfood |
-| https://commas.com/products/qualifier | 200 | Lead financial enrichment |
-| https://commas.com/products/ | 404 | No index |
-| https://commas.com/pricing | 404 | No public pricing page found |
-| https://commas.com/solutions/* | 200 | ICP cuts (coaching, agencies, SaaS, …) |
-| https://commas.com/solutions/enterprises | 200 | Enterprise + API/MCP narrative |
+| --- | --- | --- |
+| <https://commas.com/products/payments> | 200 | Core payments |
+| <https://commas.com/products/vibe-funnels> | 200 | AI funnels |
+| <https://commas.com/products/webinars> | 200 | Webinars + in-room checkout |
+| <https://commas.com/products/studios> | 200 | Courses + community |
+| <https://commas.com/products/affiliate-systems> | 200 | Affiliate center copy |
+| <https://commas.com/products/affiliate-center> | 404 | Sitemap lists it; live 404 at dogfood |
+| <https://commas.com/products/qualifier> | 200 | Lead financial enrichment |
+| <https://commas.com/products/> | 404 | No index |
+| <https://commas.com/pricing> | 404 | No public pricing page found |
+| <https://commas.com/solutions/>* | 200 | ICP cuts (coaching, agencies, SaaS, …) |
+| <https://commas.com/solutions/enterprises> | 200 | Enterprise + API/MCP narrative |
 
 ## Product areas (condensed)
 
@@ -64,9 +64,9 @@ Minimum EXP-001 path:
 
 ## Primary sources
 
-- https://commas.com/  
-- https://commas.com/products/* (listed above)  
-- https://commas.com/terms  
-- https://support.fanbasis.com/  
-- https://commas.com/products-sitemap.xml  
+- <https://commas.com/>  
+- <https://commas.com/products/>* (listed above)  
+- <https://commas.com/terms>  
+- <https://support.fanbasis.com/>  
+- <https://commas.com/products-sitemap.xml>  
 - WebBridge session `commas-products-dogfood` 2026-07-22  
