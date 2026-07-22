@@ -26,6 +26,8 @@
 | UI-001 | Authenticated commas.com session (Richard Woodman / CommaForge) | Live UI | FACT | Onboarding modal, support chat bookmarks, referral UI, Open dashboard CTAs |
 | SESS-001 | Hermes session research + WebBridge `commas-products-dogfood` 2026-07-22 | Agent research | FACT | Commercial ontology + wedge + money paths authored |
 
+| SESS-002 | Hermes session training-videos multi-sink + commas.com/products dogfood 2026-07-22 | Agent research | FACT | Confirmed /products/ /pricing /affiliate-center 404; live product pages 200; HTTP matrix + report under training videos runs/run-001/dogfood-commas |
+
 ## Provenance rule
 
 Add every durable source here before promoting its claims into canonical state.
