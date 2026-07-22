@@ -6,7 +6,7 @@ The repository exists to turn evidence into offers, paid experiments, delivery l
 
 ## Current milestone
 
-**Experiment 001 — Solo Founder AI Operator Sprint**
+### Experiment 001 — Solo Founder AI Operator Sprint
 
 - Offer: guided implementation of one real founder workstream with a structured AI operator
 - Price: £250
@@ -44,4 +44,3 @@ scripts/         Lightweight repository validation
 ## Scope boundary
 
 Palantir-style mapping, GBrain, knowledge graphs, embeddings, multi-agent systems, Swallow, and other surfaces may become useful later. They must not displace the current commercial loop unless evidence shows they are required to make or deliver a sale.
-
